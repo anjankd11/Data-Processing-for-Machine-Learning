@@ -20,3 +20,9 @@ Lecture 03: Data Preproccessing with Pandas (Part 2)
 * Checking the unique values for each column
 * performing calculation in dataframe columns
 * dataframe sorting
+
+Home Work 1:
+* Reading excel file ,showing data, explanation of columns
+* Finding data statistics and data type
+* Changing, splitting, deleting columns  
+* Data filtering with different conditions 
