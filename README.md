@@ -23,7 +23,7 @@ Lecture 03: Data Preproccessing with Pandas (Part 2)
 
 Home Work 1:
 * Data Set for the homework: https://stats.espncricinfo.com/ci/content/records/283193.html 
-* Reading excel file ,showing data, explanation of columns
+* Reading excel file ,demostrating dataframe, explanation of columns
 * Finding data statistics and data type
 * Changing, splitting, deleting columns  
 * Data filtering with different conditions 
