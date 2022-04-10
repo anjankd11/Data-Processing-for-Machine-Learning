@@ -21,7 +21,7 @@ Lecture 03: Data Preproccessing with Pandas (Part 2)
 * performing calculation in dataframe columns
 * dataframe sorting
 
-## Lecture 04: Reviewing homeworks and discussuin
+Lecture 04: Reviewing homeworks and discussuin
 
 Home Work 1:
 * Data Set for the homework: https://stats.espncricinfo.com/ci/content/records/283193.html 
