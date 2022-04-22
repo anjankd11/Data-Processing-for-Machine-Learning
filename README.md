@@ -34,6 +34,13 @@ Lecture 05: Handling Missing values
 Lecture 06: Data Joining Using Pandas
 * Inner, Outer, Left, Right Join 
 
+Lecture 07: Data Aggregation/grouping and Pivot table using Pandas
+* Data filtering
+* Data preprocessing
+* Data Aggregation/grouping
+* Pivot table
+* Data Visualization: Barplot
+
 Home Work 1:
 * Data Set for the homework: https://stats.espncricinfo.com/ci/content/records/283193.html 
 * Reading excel file ,demostrating dataframe, explanation of columns
