@@ -41,9 +41,23 @@ Lecture 07: Data Aggregation/grouping and Pivot table using Pandas
 * Pivot table
 * Data Visualization: Barplot
 
+Lecture 08: Data Correlation and Categorical Variable Encoding
+* Dealing with categorical variables
+* Label encoding
+* One-hot encoding
+
 Home Work 1:
 * Data Set for the homework: https://stats.espncricinfo.com/ci/content/records/283193.html 
 * Reading excel file ,demostrating dataframe, explanation of columns
 * Finding data statistics and data type
 * Changing, splitting, deleting columns  
 * Data filtering with different conditions 
+
+Home Work 2:
+* Quiz on Data Joining
+
+Home Work 3:
+* Aggregation Functionalities
+* Use of group by and pivot table
+* Exploratory data analysis on Audi data set
+* Visualization with matplotlib
